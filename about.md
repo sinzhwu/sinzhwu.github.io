@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /博客志/
+permalink: /hi/
 tags: about
 ---
 
