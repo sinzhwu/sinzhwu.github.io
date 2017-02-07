@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about
-permalink: /blog/
-tags: about
+title: 关于这个博客
+permalink: /博客志/
+tags: 博客志
 ---
 
--hi
+这个博客
