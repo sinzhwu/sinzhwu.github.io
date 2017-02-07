@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于这个博客
-permalink: /博客志/
+permalink: /about/
 tags: 博客志
 ---
 
