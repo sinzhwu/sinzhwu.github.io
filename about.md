@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about
+title: 关于这个博客
 permalink: /博客志/
 tags: about
 ---
 
-这个博客其实很久之前就搭建了
+这个博客
