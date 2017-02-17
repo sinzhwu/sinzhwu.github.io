@@ -1,8 +1,8 @@
 # Site settings
-title:       SB-Sinzh's Blog
+title:       Sinzh's Blog
 email:       davidwuquick@foxmail.com
 author:      Sinzh Wu
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A Stupid Blog"
 baseurl:     ""
 url:         "https://sinzhwu.github.io/"
 date_format: "%b %-d, %Y"
