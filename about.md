@@ -20,7 +20,7 @@ tags: about
 * 开头部分跟着[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)就好了
 * Git部分
 
-    * 由于我使用的是Ubantu 14.04，因此部分参考了[用 Git 上传项目到 GitHub](http://www.jianshu.com/p/0fce531dba31)
+    * 由于我使用的是Ubuntu 14.04，因此部分参考了[用 Git 上传项目到 GitHub](http://www.jianshu.com/p/0fce531dba31)
     * 现在在本地仓库添加文件习惯用
     
         `git add .`
