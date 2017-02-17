@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 博客记
-date: 2017-02-17
 permalink: /博客记/
 tags: about
 ---
