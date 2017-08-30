@@ -2,11 +2,11 @@
 layout:     post
 title:      我沒有敵人——我的最後陳述
 date:       2017-07-14
-summary:    
+summary:    R.I.P
 categories: 转载
 ---
 
-作者：刘晓波  
+作者：劉曉波  
 链接：[Liu Xiaobo - Nobel Lecture](https://www.nobelprize.org/nobel_prizes/peace/laureates/2010/xiaobo-lecture_ch.pdf)   
 
 ---
