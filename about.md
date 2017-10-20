@@ -19,13 +19,12 @@ tags: about
 * 开头部分跟着[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)就好了
 * Git部分
 
-    * 由于我使用的是Ubuntu 14.04，因此部分参考了[用 Git 上传项目到 GitHub](http://www.jianshu.com/p/0fce531dba31)与[如何在ubuntu下使用Github？](http://blog.csdn.net/tina_ttl/article/details/51326684)
+    * 由于我使用的是Ubuntu 14.04，因此部分参考了[用 Git 上传项目到 GitHub](http://www.jianshu.com/p/0fce531dba31)
     * 现在在本地仓库添加文件习惯用
     
         `git add .`
     
     * 别忘了先把Github上的代码用`git pull`拉到本地
-    * 新建项目用`clone`指令把在github新建的repository拉到本地
     
 * 根据教程，不要脸地Fork了[John Otander](http://johnotander.com/)的[Pixyll](https://github.com/johnotander/pixyll)模板，所以在我的博客页面底部可以看到作者和Pixyll的相关信息
     * 修改排版方面，删除了contact.html和改了about.md文件
