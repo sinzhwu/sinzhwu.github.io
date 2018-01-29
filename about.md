@@ -6,7 +6,7 @@ tags: about
 ---
 源起
 -
-想建立一个独立博客的想法产生于一年之前。当时在网上看到[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)这篇文章，突然觉得作为一个跟信息管理打交道的人有个博客貌似很重要，有个Github账户好像更重要（似乎程序员人手一个），于是决定改天跟着教程建一个。
+想建立一个独立博客的想法产生于一年之前。当时在网上看到[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog/)这篇文章，突然觉得作为一个跟信息管理打交道的人有个博客貌似很重要，有个Github账户好像更重要（似乎程序员人手一个），于是决定改天跟着教程建一个。
 
 ~~这天一改，就是半年~~。直到某个无聊到找不到任何事情可以做的盛夏之夜，无意中想到了建博客这件事，于是跟教程一步步做了下来。不愧是专为编程小白写的教程，全程基本上没遇到什么阻碍。由于不介意域名的问题，那一部分教程的学习和~~购买域名的费用~~全都省了。配置完Github Pages空间后，上传个写着`hello world`的html上去就自我感觉良好地睡觉去了，想着改天再来弄模板和更新博文。
 
@@ -16,7 +16,7 @@ tags: about
 -
 ~~这部分主要是防止以后忘了怎么建起来的~~
 
-* 开头部分跟着[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)就好了
+* 开头部分跟着[如何搭建一个独立博客——简明 Github Pages与 jekyll 教程](http://www.cnfeat.com/blog/2014/05/11/how-to-build-a-blog/)就好了
 * Git部分
 
     * 由于我使用的是Ubuntu 14.04，因此部分参考了[用 Git 上传项目到 GitHub](http://www.jianshu.com/p/0fce531dba31)
